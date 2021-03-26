@@ -32,7 +32,6 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
 
 </details><br>
 
-
 - Pilha: 
   - LIFO (last in, first out), o último à entrar é o pirmeiro à sair. Ou FILO (first in, last out). Exemplo: uma pilha de pratos.
   - Pra quê isso serve na internet? Pense numa navegação entre sites, o último acessado fica no topo do histórico, quando você clica em "voltar" ele te redireciona pro último site acessado. Ele faz um empilhamento.
@@ -42,3 +41,4 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
   - Implementação da [Fila](./fila/) utilizando Vetores.
 - Lista sequencial [vs](./lista-encadeada.pdf) Lista encadeada
   - Implementação de [Pilha](./pilha-encadeada/) com Lista encadeada
+  - Implementação de [Fila](./fila-encadeada/) com Lista encadeada
