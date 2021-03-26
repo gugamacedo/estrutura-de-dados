@@ -42,3 +42,7 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
 - Lista sequencial [vs](./lista-encadeada.pdf) Lista encadeada
   - Implementação de [Pilha](./pilha-encadeada/) com Lista encadeada
   - Implementação de [Fila](./fila-encadeada/) com Lista encadeada
+- Tabela [Hash](./tabela-hash/tabela_hash.pdf)
+  - Implementação da Tabela [Hash](./tabela-hash/)
+- Tabela Hash com [colisão](./tabela-hash-colisao/tabela_hash_colisao.pdf)
+  - Implementação da Tabela Hash com [colisão](./tabela-hash-colisao/)
