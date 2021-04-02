@@ -39,10 +39,12 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
 - Fila:
   - FIFO (first in first out), primeiro a chegar é o primeiro a sair. Ou LILO (last in last out). O funcionamento e utilidade já é intrínseca na nossa cultura.
   - Implementação da [Fila](./fila/) utilizando Vetores.
-- Lista sequencial [vs](./lista-encadeada.pdf) Lista encadeada
+- Lista sequencial [vs](./pilha-encadeada/lista-encadeada.pdf) Lista encadeada
   - Implementação de [Pilha](./pilha-encadeada/) com Lista encadeada
   - Implementação de [Fila](./fila-encadeada/) com Lista encadeada
 - Tabela [Hash](./tabela-hash/tabela_hash.pdf)
   - Implementação da Tabela [Hash](./tabela-hash/)
 - Tabela Hash com [colisão](./tabela-hash-colisao/tabela_hash_colisao.pdf)
   - Implementação da Tabela Hash com [colisão](./tabela-hash-colisao/)
+- Árvore [Binária](./arvore-binaria/arvore_binaria.pdf)
+  - [Implementação](./arvore-binaria/) da Árvore Binária
