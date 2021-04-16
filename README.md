@@ -1,6 +1,6 @@
 # Estrutra de Dados
 
-###### Playlist do Prof. Douglas Maioli [►](https://www.youtube.com/channel/UC_Ed5ksOnDgmpUdK81z81gw)
+###### Playlist do Prof. Douglas Maioli [![Youtube](https://www.youtube.com/s/desktop/b4620429/img/favicon.ico)](https://www.youtube.com/playlist?list=PLrOyM49ctTx_AMgNGQaic10qQJpTpXfn_)
 
 Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programador as operações para gerenciamento das estruturas de dados, tem tipagem estática, e permite a manipulação explícita da memória.
 
@@ -44,7 +44,7 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
   - Implementação da [Pilha](./pilha/) utilizando Vetores.
 - **Fila**:
   - FIFO (first in first out), primeiro a chegar é o primeiro a sair. Ou LILO (last in last out). O funcionamento e utilidade já é intrínseca na nossa cultura.
-  - Implementação da [Fila](./fila/) utilizando Vetores.
+  - Implementação da [Fila](./fila/fila.exe) utilizando Vetores.
 - **Lista encadeada** [vs](./pilha-encadeada/lista-encadeada.pdf) Lista sequencial
   - Implementação de [Pilha](./pilha-encadeada/) com Lista encadeada
   - Implementação de [Fila](./fila-encadeada/) com Lista encadeada
@@ -56,3 +56,5 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
   - [Implementação](./arvore-binaria/) da Árvore Binária
 - **Árvore [AVL](./arvore-avl/arvore_avl.pdf)**
   - [Implementação](./arvore-avl/) da Árvore AVL
+- [Grafos](./grafos/grafos.pdf), Listas de Adjacências e Matriz de Adjacências
+  - [Implementação](./grafos/matriz-adjacencias) da Matriz de Adjacências de Grafos
