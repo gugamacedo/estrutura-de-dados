@@ -45,7 +45,7 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
 - **Fila**:
   - FIFO (first in first out), primeiro a chegar é o primeiro a sair. Ou LILO (last in last out). O funcionamento e utilidade já é intrínseca na nossa cultura.
   - Implementação da [Fila](./fila/fila.exe) utilizando Vetores.
-- **Lista encadeada** [vs](./pilha-encadeada/lista-encadeada.pdf) Lista sequencial
+- **Lista encadeada [vs](./pilha-encadeada/lista-encadeada.pdf) Lista sequencial**
   - Implementação de [Pilha](./pilha-encadeada/) com Lista encadeada
   - Implementação de [Fila](./fila-encadeada/) com Lista encadeada
 - **Tabela [Hash](./tabela-hash/tabela_hash.pdf)**
@@ -56,5 +56,7 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
   - [Implementação](./arvore-binaria/) da Árvore Binária
 - **Árvore [AVL](./arvore-avl/arvore_avl.pdf)**
   - [Implementação](./arvore-avl/) da Árvore AVL
-- [Grafos](./grafos/grafos.pdf), Listas de Adjacências e Matriz de Adjacências
+- **[Grafos](./grafos/grafos.pdf): Listas de Adjacências e Matriz de Adjacências**
   - [Implementação](./grafos/matriz-adjacencias) da Matriz de Adjacências de Grafos
+- **Grafos: [Buscas](./grafos/buscas/buscas.pdf) em Largura e em Profundidade**
+  - [Implementação](./grafos/buscas/) das Buscas
