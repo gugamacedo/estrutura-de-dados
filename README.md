@@ -30,13 +30,12 @@ Nessa disciplina será usada a linguagem C++, porque deixa a cargo do programado
 > Pra compilar algoritmos em arquivos separados: `g++ main_filename.cpp filename.cpp etc.cpp -o filename.exe` depois pra rodar o algortimo pelo terminal vá no dir do .exe: `./filename.exe`
 - Desafio [11](./exercs/exer11.cpp) - Classe Cidades
 
-</details><br>
+</details>
 
 - Para complementar os conhecimentos, assista essas aulas do **Fabio [Akita](https://github.com/akitaonrails)**:
   - Hello World Como Você Nunca Viu! [![Youtube](https://www.youtube.com/s/desktop/b4620429/img/favicon.ico)](https://youtu.be/Gp2m8ZuXoPg)
   - O que vem DEPOIS do Hello World? [![Youtube](https://www.youtube.com/s/desktop/b4620429/img/favicon.ico)](https://youtu.be/YyWMN_0g3BQ)
   - Árvores: O Começo de TUDO [![Youtube](https://www.youtube.com/s/desktop/b4620429/img/favicon.ico)](https://youtu.be/9GdesxWtOgs)
-<br>
 
 - **Pilha**: 
   - LIFO (last in, first out), o último à entrar é o pirmeiro à sair. Ou FILO (first in, last out). Exemplo: uma pilha de pratos.
